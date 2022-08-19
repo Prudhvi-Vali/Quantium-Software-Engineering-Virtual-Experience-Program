@@ -1,5 +1,5 @@
 # Quantium-Software-Engineering-Virtual-Experience-Program
-Set Up Local Development Environment
+Set Up Local Development Environment<br>
 Install Pycharm Community Edition
 Install Python 3.9
 Create a new virtual envirnoment project with python 3.9
